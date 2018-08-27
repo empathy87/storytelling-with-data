@@ -12,6 +12,20 @@
 ![](images/Figure_0-5.png)                 |![](images/Figure_3-34.png)
 
 ## Simple Texts
+<table>
+<thead>
+<tr>
+	<th align="center" width="50%"><a href="/empathy87/storytelling-with-data/blob/master/simple-text/figure-9-29.ipynb">Figure 9.29</a></th>
+	<th align="center" width="50%"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/empathy87/storytelling-with-data/raw/master/images/Figure_9-29.png"/></td>
+<td align="center"> </td>
+</tr></tbody></table>
+
+
 [Figure 9.29](simple-text/figure-9-29.ipynb)|&nbsp;
 :------------------------------------------:|:-------------------------:
 <img src="images/Figure_9-29.png" width="40%">|&nbsp;
