@@ -2,16 +2,16 @@
 
 
 ## Slopegraphs
-[Figure 9.32](slopegraph/figure-9-32.ipynb)|
+[Figure 9.32](slopegraph/figure-9-32.ipynb)| 
 :-----------------------------------------:|:-------------------------:
-![](images/Figure_9-32.png)                |
+![](images/Figure_9-32.png)                | 
  
 ## Vertical & Horizontal Bars
-[Figure 0.5](vertical-bar/figure-0-5.ipynb)|  [Figure 3.34](horizontal-bar/figure-3-34.ipynb)
+[Figure 0.5](vertical-bar/figure-0-5.ipynb)|[Figure 3.34](horizontal-bar/figure-3-34.ipynb)
 :-----------------------------------------:|:------------------------------------------------:
-![](images/Figure_0-5.png)                 |  ![](images/Figure_3-34.png)
+![](images/Figure_0-5.png)                 |![](images/Figure_3-34.png)
 
 ## Simple Texts
-[Figure 9.29](simple-text/figure-9-29.ipynb)|
+[Figure 9.29](simple-text/figure-9-29.ipynb)| 
 :------------------------------------------:|:-------------------------:
-![](images/Figure_9-29.png)                 |
+![](images/Figure_9-29.png)                 | 
