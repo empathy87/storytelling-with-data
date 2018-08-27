@@ -7,7 +7,7 @@
 ![](images/Figure_9-32.png)                |&nbsp; 
  
 ## Vertical & Horizontal Bars
-[Figure 0.5](vertical-bar/figure-0-5.ipynb)|[Figure 3.34](horizontal-bar/figure-3-34.ipynb)
+[Figure 0.5](vertical-bar/figure-0-5.ipynb)|[Figure 3.34](horizontal-bar/figure-3-14.ipynb)
 :-----------------------------------------:|:------------------------------------------------:
 ![](images/Figure_0-5.png)                 |![](images/Figure_3-34.png)
 
