@@ -14,4 +14,4 @@
 ## Simple Texts
 [Figure 9.29](simple-text/figure-9-29.ipynb)|&nbsp;
 :------------------------------------------:|:-------------------------:
-![](images/Figure_9-29.png | width=50)                 |&nbsp;
+<img src="images/Figure_9-29.png" width="40%">|&nbsp;
