@@ -22,3 +22,8 @@
 [Figure 5.6](scatterplot/figure-5-6.ipynb)|&nbsp;
 :----------------------------------------:|:-------------------------:
 ![](images/Figure_5-6.png)               |&nbsp;
+
+## Lines
+[Figure 5.10](line/figure-5-10.ipynb)|&nbsp;
+:-----------------------------------:|:-------------------------:
+![](images/Figure_5-10.png)          |&nbsp;
