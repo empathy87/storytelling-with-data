@@ -18,7 +18,7 @@
 :------------------------------------------:|:-------------------------:
 ![](images/Figure_9-29.png)                 |&nbsp;
 
-## Simple Texts
+## Scatterplots
 [Figure 5.6](scatterplot/figure-5-6.ipynb)|&nbsp;
 :----------------------------------------:|:-------------------------:
 ![](images/Figure_5-6.png)               |&nbsp;
