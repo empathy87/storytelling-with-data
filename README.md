@@ -32,7 +32,7 @@
 
 # Colors 
 ## Gray
-|#231F20  GRAY1. Thunder         |#414040  GRAY2. Tundora          |#555655  GRAY3. Nandor           |#646369  GRAY4. Mid Gray         |#76787B  GRAY5. Rolling Stone    |#828282  GRAY. Gray              |#929497  GRAY7. Oslo Gray        |#A6A6A5  GRAY8. Delta            |#BFBEBE  GRAY9. Silver           |
+|#231F20  GRAY1. Thunder         |#414040  GRAY2. Tundora          |#555655  GRAY3. Nandor           |#646369  GRAY4. Mid Gray         |#76787B  GRAY5. Rolling Stone    |#828282  GRAY6. Gray             |#929497  GRAY7. Oslo Gray        |#A6A6A5  GRAY8. Delta            |#BFBEBE  GRAY9. Silver           |
 :-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
 ![](images/colors/gray/GRAY1.png)|![](images/colors/gray/GRAY2.png)|![](images/colors/gray/GRAY3.png)|![](images/colors/gray/GRAY4.png)|![](images/colors/gray/GRAY5.png)|![](images/colors/gray/GRAY6.png)|![](images/colors/gray/GRAY7.png)|![](images/colors/gray/GRAY8.png)|![](images/colors/gray/GRAY9.png)|
 
