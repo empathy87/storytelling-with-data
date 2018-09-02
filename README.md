@@ -1,7 +1,7 @@
 # storytelling-with-data (Python + matplotlib)
 http://www.storytellingwithdata.com/book/
 
-<img align="right" src="images/storytelling.jpeg">
+<img src="images/storytelling.jpeg">
 
 The book storytelling with data teaches you the fundamentals of data visualization and how to communicate effectively with data. 
 You'll discover the power of storytelling and the way to make data a pivotal point in your story. 
