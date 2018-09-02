@@ -1,14 +1,8 @@
-# storytelling-with-data (Python + matplotlib)
+# storytelling-with-data
 http://www.storytellingwithdata.com/book/
 
-<img align="right" src="images/storytelling.jpeg">
+storytelling with data teaches you the fundamentals of data visualization and how to communicate effectively with data. You'll discover the power of storytelling and the way to make data a pivotal point in your story. The lessons in this illuminative text are grounded in theory, but made accessible through numerous real-world examples—ready for immediate application to your next graph or presentation.
 
-The book storytelling with data teaches you the fundamentals of data visualization and how to communicate effectively with data. 
-You'll discover the power of storytelling and the way to make data a pivotal point in your story. 
-The lessons in this illuminative text are grounded in theory, but made accessible through numerous real-world examples—ready 
-for immediate application to your next graph or presentation.
-
-Here I have implemented few graphs from the book using Python and matplotlib library. Kindly find well documented Jupyter Notebooks for plots.
  
 ## Vertical & Horizontal Bars
 [Figure 0.5](vertical-bar/figure-0-5.ipynb)  |[Figure 3.34](horizontal-bar/figure-3-14.ipynb)
