@@ -35,9 +35,10 @@ Here I have implemented few graphs from the book using Python and matplotlib lib
 ![](images/Figure_5-6.png)               |
 
 ## Lines
-[Figure 5.10](line/figure-5-10.ipynb)|
-:-----------------------------------:|
-![](images/Figure_5-10.png)          |
+
+[Figure 5.4](line/figure-5-4.ipynb)  |[Figure 5.10](line/figure-5-10.ipynb)
+:-------------------------------------------:|:------------------------------------------------:
+![](images/Figure_5-4.png)                   |![](images/Figure_5-10.png) 
 
 # Colors 
 ## Gray
