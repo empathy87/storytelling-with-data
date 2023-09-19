@@ -16,8 +16,8 @@ Here I have implemented few graphs from the book using Python and matplotlib lib
 ![](images/Figure_0-5.png)                   |![](images/Figure_3-34.png)
 [Figure 4.9](horizontal-bar/figure-4-9.ipynb)|[Figure 5.13](vertical-bar/figure-5-13.ipynb)
 ![](images/Figure_4-9.png)                   |![](images/Figure_5-13.png)
-[Figure 6.4](vertical-bar/figure-6-4.ipynb)  |
-![](images/Figure_6-4.png)                   |
+[Figure 6.4](vertical-bar/figure-6-4.ipynb)  |[Figure 9.20](horizontal-bar/figure-9-20.ipynb)
+![](images/Figure_6-4.png)                   |![](images/Figure_9-20.png)
 
 ## Slopegraphs
 [Figure 9.32](slopegraph/figure-9-32.ipynb)|
